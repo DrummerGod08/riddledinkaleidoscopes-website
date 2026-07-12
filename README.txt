@@ -1,20 +1,12 @@
-R.I.K. OFFICIAL WEBSITE V1
+RIDDLED IN KALEIDOSCOPES — OFFICIAL WEBSITE V2
 
-FILES:
-- index.html
-- styles.css
-- script.js
-- assets/album-front.png
-- assets/album-back.png
-- assets/wordmark.png
-- assets/circle-logo.png
+UPLOAD TO GITHUB
+1. Extract this ZIP on your laptop.
+2. Open github.com/DrummerGod08/riddledinkaleidoscopes-website
+3. Delete or replace the old website files.
+4. Upload every file and the full assets folder from this package.
+5. Commit the changes to the main branch.
+6. Cloudflare should redeploy automatically.
 
-UPLOAD TO GITHUB:
-1. Unzip this package.
-2. Open your repository: DrummerGod08/riddledinkaleidoscopes-website
-3. Use the GitHub website in Chrome.
-4. Tap Add file > Upload files.
-5. Upload index.html, styles.css, script.js, and the full assets folder.
-6. Commit the changes to the main branch.
-
-Then connect the repository to Cloudflare Pages.
+IMPORTANT
+Keep the assets folder intact. The website pages expect the images to remain inside assets/.
